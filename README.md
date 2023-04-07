@@ -1,2 +1,2 @@
-# pok-Index
+# PokemonIndex
 Pokémon Index Display
